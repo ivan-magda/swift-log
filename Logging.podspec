@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "Logging"
-  spec.version = "0.0.0"
+  spec.version = "0.0.1"
   spec.license = "Apache 2.0"
   spec.summary = "A Logging API for Swift."
   spec.homepage = "https://apple.github.io/swift-log/"
